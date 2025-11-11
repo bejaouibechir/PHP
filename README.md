@@ -99,18 +99,3 @@ Bienvenue dans cette formation PHP complète et progressive ! Ce parcours a ét�
 - **Éditeur** : VS Code, PHPStorm ou Sublime Text
 - **Outils** : Composer, Git
 
-### 🚀 Installation Rapide
-
-```bash
-# Cloner le projet (si disponible)
-
-git clone [url-du-projet]
-
-# Installer les dépendances
-
-composer install
-
-# Configurer la base de données
-
-cp config/database.example.php config/database.php
-```
